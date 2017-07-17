@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_left">8dp</dimen>
+    <dimen name="margin_right">8dp</dimen>
+    <dimen name="margin_right_handle">8dp</dimen>
+    <dimen name="margin_bottom">8dp</dimen>
+    <dimen name="margin_top">8dp</dimen>
+</resources>
